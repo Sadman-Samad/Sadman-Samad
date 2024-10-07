@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-samad&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-samad" /> </p>
 
-- 🌱 I’m currently learning **Rest framework and JavaScript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
