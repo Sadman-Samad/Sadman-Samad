@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadman Samad</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-samad&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-samad" /> </p>
 
