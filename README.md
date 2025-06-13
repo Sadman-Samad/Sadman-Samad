@@ -1,5 +1,5 @@
 # <div align="center">👋 Hello, I'm Sadman Samad</div>
-### <div align="center">Full Stack Django Developer | JavaScript Specialist</div>
+### <div align="center">Django & MERN Stack Developer</div>
 
 <div align="center">
   
@@ -11,68 +11,84 @@
 
 ---
 
-## 🚀 Featured Projects
+## � Core Expertise
 
-### 1. [AromasBD - E-commerce Platform](https://aromasbd.com/)
-🛍️ Complete e-commerce solution with product management and payment integration  
-🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
-✨ **Features**: Product catalog • Shopping cart • Payment gateway • Admin dashboard
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN">
+</div>
 
-### 2. [Eranian - Multi-vendor Marketplace](https://eranian.com/)
-🏬 Platform connecting multiple vendors with customers  
-🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
-🚀 **Highlights**: Vendor management • Order tracking • Commission system
-
-### 3. [ePressTV - News Portal](https://epresstv.com/)
-📰 Dynamic news platform with content management  
-🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
-💡 **Features**: Article publishing • Category system • User comments
-
-### 4. [European Consultancy - Travel Agency](https://europeanconsultancybd.com/)
-✈️ Travel services and visa processing system  
-🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
-🌍 **Services**: Tour packages • Visa processing • Booking management
-
-### 5. [Ronjona - Hostel Management System](https://ronjonabd.com/)
-🏠 Comprehensive hostel management solution with admin dashboard  
-🛠️ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Express](https://img.shields.io/badge/-Express-000000) ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933)  
 ---
 
-## 🛠️ Technical Stack
+## 🚀 Featured Projects
 
-### **Core Technologies**
+### Django Projects
+#### 1. [AromasBD - E-commerce Platform](https://aromasbd.com/)
+🛍️ Complete e-commerce solution  
+🛠 Django | Tailwind | JavaScript  
+✨ Product catalog • Payment gateway • Admin dashboard
+
+#### 2. [Eranian - Multi-vendor Marketplace](https://eranian.com/)
+🏬 Vendor management platform  
+🛠 Django | Bootstrap | JavaScript  
+🚀 Vendor dashboards • Order tracking • Commission system
+
+#### 3. [ePressTV - News Portal](https://epresstv.com/)
+📰 News publishing platform  
+🛠 Django | Bootstrap | JavaScript  
+💡 Article management • User comments • Category system
+
+#### 4. [European Consultancy - Travel Agency](https://europeanconsultancybd.com/)
+✈️ Travel services platform  
+🛠 Django | Bootstrap | JavaScript  
+🌍 Tour packages • Visa processing • Booking system
+
+### MERN Stack Projects
+#### 5. [Ronjona - Hostel Management](https://ronjonabd.com/)
+🏠 Hostel administration system  
+🛠 MongoDB | Express | React | Node.js  
+🔑 Student registration • Room allocation • Payment processing
+
+---
+
+## 🛠 Technical Stack
+
+### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Development Activity
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" style="width: 45%;">
 
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 35%;">
-
-<!-- Alternative 1: Using github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical" alt="GitHub Streak">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical" alt="GitHub Streak" style="width: 45%;">
 
 </div>
 
 ---
 
+## 📫 Professional Contact
+
+<div align="center">
+  
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 </div>
