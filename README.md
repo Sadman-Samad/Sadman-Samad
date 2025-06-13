@@ -1,5 +1,5 @@
 # <div align="center">👋 Hello, I'm Sadman Samad</div>
-### <div align="center">Full Stack Developer | Python & JavaScript Specialist</div>
+### <div align="center">Full Stack Django Developer | JavaScript Specialist</div>
 
 <div align="center">
   
@@ -7,33 +7,31 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadman-samad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadman-samad&label=Profile+Views&color=0e75b6&style=flat)
-
 </div>
 
 ---
 
-## 📊 GitHub Contribution Analytics
+## 🚀 Featured Projects
 
-<div align="center">
+### 1. [AromasBD - E-commerce Platform](https://aromasbd.com/)
+🛍️ Complete e-commerce solution with product management and payment integration  
+🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
+✨ **Features**: Product catalog • Shopping cart • Payment gateway • Admin dashboard
 
-<!-- Public + Private Contributions Graph -->
-<img src="https://ghchart.rshah.org/sadman-samad" alt="Sadman's GitHub Contributions" width="100%"/>
+### 2. [Eranian - Multi-vendor Marketplace](https://eranian.com/)
+🏬 Platform connecting multiple vendors with customers  
+🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
+🚀 **Highlights**: Vendor management • Order tracking • Commission system
 
-<!-- Stats including private contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadman-samad&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
+### 3. [ePressTV - News Portal](https://epresstv.com/)
+📰 Dynamic news platform with content management  
+🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
+💡 **Features**: Article publishing • Category system • User comments
 
-<!-- Top Languages including private -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true&count_private=true)
-
-<!-- Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical&hide_border=true)
-
-<!-- Contribution metrics -->
-[![Total Contributions](https://badges.pufler.dev/contributions/sadman-samad?style=flat&color=blue&label=Total%20Contributions)](https://github.com/sadman-samad)
-[![Repositories](https://badges.pufler.dev/repos/sadman-samad?style=flat&color=green&label=Repositories)](https://github.com/sadman-samad?tab=repositories)
-
-</div>
+### 4. [European Consultancy - Travel Agency](https://europeanconsultancybd.com/)
+✈️ Travel services and visa processing system  
+🛠️ ![Django](https://img.shields.io/badge/-Django-092E20) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E)  
+🌍 **Services**: Tour packages • Visa processing • Booking management
 
 ---
 
@@ -41,43 +39,44 @@
 
 ### **Core Technologies**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Databases & DevOps**
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Activity
 
-### 1. [Project Name](https://github.com/sadman-samad/project1)
-📌 A full-stack application with React frontend and Django backend  
-🛠 ![React](https://img.shields.io/badge/-React-61DAFB) ![Django](https://img.shields.io/badge/-Django-092E20) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1)  
-🌟 **Features**: JWT Authentication • REST API • Responsive UI
+<div align="center">
 
-### 2. [Project Name](https://github.com/sadman-samad/project2)
-📌 A real-time application using WebSockets  
-🛠 ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101)  
-🚀 **Highlight**: Handles 1000+ concurrent connections
+<!-- Fixed GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sadman-samad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 49%; display: inline-block;">
+
+<!-- Fixed Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; display: inline-block;">
+
+<!-- Working GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=sadman-samad&theme=radical" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
+
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourprofile)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yourprofile)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 
 </div>
