@@ -58,8 +58,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=sadman-samad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 60%;">
+
 
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 35%;">
@@ -67,8 +66,6 @@
 <!-- Alternative 1: Using github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical" alt="GitHub Streak">
 
-<!-- Alternative 2: Simple SVG version -->
-<img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sadman-samad&theme=radical" alt="GitHub Streak">
 
 </div>
 
