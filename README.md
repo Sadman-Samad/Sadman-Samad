@@ -64,8 +64,11 @@
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 35%;">
 
-<!-- Working GitHub Streak - Updated URL -->
-<img src="https://streak-stats.demolab.com/?user=sadman-samad&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
+<!-- Alternative 1: Using github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical" alt="GitHub Streak">
+
+<!-- Alternative 2: Simple SVG version -->
+<img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sadman-samad&theme=radical" alt="GitHub Streak">
 
 </div>
 
