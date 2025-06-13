@@ -58,14 +58,14 @@
 
 <div align="center">
 
-<!-- Fixed GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sadman-samad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 49%; display: inline-block;">
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=sadman-samad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 60%;">
 
-<!-- Fixed Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; display: inline-block;">
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 35%;">
 
-<!-- Working GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=sadman-samad&theme=radical" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
+<!-- Working GitHub Streak - Updated URL -->
+<img src="https://streak-stats.demolab.com/?user=sadman-samad&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
 
 </div>
 
