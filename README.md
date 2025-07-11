@@ -78,6 +78,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 45%;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-samad&theme=radical" alt="GitHub Streak" style="width: 45%;">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sadman-samad&theme=radical)](https://git.io/streak-stats)
+
 
 </div>
