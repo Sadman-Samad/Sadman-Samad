@@ -22,6 +22,19 @@
 
 ## 🚀 Featured Projects
 
+
+#### POS System - Point of Sale Application
+🛒 A full-featured POS system built with the MERN stack.  
+🛠 Technologies: **MongoDB | Express | React | Node.js**  
+💼 Features include:  
+- Product and inventory management  
+- Sales and transaction processing  
+- User authentication and role-based access control  
+- Real-time updates and reporting  
+- Responsive and intuitive UI  
+
+🔗 [Live Demo](https://pos-react-nine.vercel.app/) | )
+
 ### Django Projects
 #### 1. [AromasBD - E-commerce Platform](https://aromasbd.com/)
 🛍️ Complete e-commerce solution  
