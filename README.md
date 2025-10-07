@@ -16,6 +16,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+
 </div>
 
 ---
