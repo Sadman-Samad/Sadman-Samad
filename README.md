@@ -1,5 +1,5 @@
 # <div align="center">👋 Hello, I'm Sadman Samad</div>
-### <div align="center">Django & MERN Stack Developer</div>
+### <div align="center">Django , MERN Stack Developer & Laravel Developer</div>
 
 <div align="center">
   
