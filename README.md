@@ -1,5 +1,5 @@
 # <div align="center">Sadman Samad</div>
-### <div align="center">Full-Stack Web Developer | Django • MERN • Laravel</div>
+### <div align="center">Full-Stack Web Developer | Nest JS • Flutter • Django • MERN • Laravel</div>
 
 <div align="center">
   
