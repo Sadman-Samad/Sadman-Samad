@@ -156,8 +156,7 @@ Full-stack web developer specializing in building scalable web applications usin
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-samad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sadman-samad&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sadman-samad&theme=radical&hide_border=true&cache_seconds=1)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -177,3 +176,5 @@ I'm always interested in hearing about new projects and opportunities. Feel free
 **⭐ From [sadman-samad](https://github.com/sadman-samad)**
 
 </div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadman-samad&theme=react-dark&hide_border=true)
