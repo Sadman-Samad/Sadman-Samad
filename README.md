@@ -76,7 +76,9 @@ Full-stack fintech credit-scoring & BNPL platform. Handles loan origination, cre
 
 **Tech Stack:** Laravel • NestJS • Flutter • MySQL • PostgreSQL • Redis
 
-### 🏦 Kube Fintech
+### 🏦 Kube Money
+
+🔗 https://kube.money/
 
 Fintech platform with rewards, credit marketplace, and an integrated AI agent for financial automation. Ships across web, mobile, and backend services.
 
@@ -87,20 +89,6 @@ Fintech platform with rewards, credit marketplace, and an integrated AI agent fo
 Multi-app travel agency platform — separate apps for customers, agencies, and agents. Built for end-to-end travel booking and management.
 
 **Tech Stack:** Flutter • Dart • REST APIs
-
-### 🤖 OCR Credit Engine
-
-Bank statement PDF parsing toolkit with multi-method extraction, OCR, and credit scoring benchmarking. Processes financial documents at scale.
-
-**Tech Stack:** Python • FastAPI • OCR • PostgreSQL
-
-### 🛒 POS System
-
-🔗 https://pos-react-nine.vercel.app/
-
-Modern POS and inventory management system for retail businesses — product catalog, sales tracking, and real-time stock management.
-
-**Tech Stack:** MongoDB • Express • React • Node.js
 
 ---
 
