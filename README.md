@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm Sadman Samad 👋</div>
 
-### <div align="center">Full-Stack Developer • Flutter • NestJS • React • React Native Expo • Django • Laravel • MERN</div>
+### <div align="center">Full-Stack Developer • Go • Flutter • Kotlin • Swift • NestJS • Laravel • Django • AI/ML</div>
 
 <div align="center">
 
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-Full-stack developer focused on building scalable web and mobile applications using Flutter, NestJS, React, Django, Laravel, and modern backend architectures.
+Full-stack developer building fintech, travel, and AI platforms across web and mobile. Currently architecting credit-scoring systems, cross-platform mobile apps, and AI agent frameworks.
 
-* 📱 Building cross-platform mobile apps with Flutter & React Native Expo
-* ⚡ Developing scalable backend systems using NestJS & Django
-* 🌍 Creating modern web applications with React & MERN stack
-* 🧠 Exploring AI systems and scalable architectures
+* 🏦 Building **Dana** — a fintech credit-scoring & BNPL platform (Laravel, NestJS, Flutter, Kotlin, Swift)
+* ✈️ Developing **Bideshgami** — a travel agency platform (Flutter, multi-app)
+* 🤖 Integrating **AI agents & OCR engines** for document processing (Python, FastAPI, Go)
+* 📱 Shipping cross-platform mobile apps with Flutter, React Native, Kotlin & Swift
 
 ---
 
@@ -29,24 +29,41 @@ Full-stack developer focused on building scalable web and mobile applications us
 
 ### Backend
 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### Frontend & Mobile
+### Frontend & Web
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+### Mobile
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 
-### Database
+### Database & Cache
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+### DevOps & AI
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
 </div>
 
@@ -58,33 +75,35 @@ Full-stack developer focused on building scalable web and mobile applications us
 
 🔗 https://dana.money/
 
-Comprehensive financial platform built with Laravel.
+Full-stack fintech credit-scoring & BNPL platform. Handles loan origination, credit scoring, payment processing, and user KYC across web and mobile.
 
-**Tech Stack:** Laravel • MySQL • JavaScript • Bootstrap
+**Tech Stack:** Laravel • NestJS • Flutter • Kotlin • Swift • MySQL • PostgreSQL • Redis
+
+### 🏦 Kube Fintech
+
+Fintech platform with rewards, credit marketplace, and an integrated AI agent for financial automation. Ships across web, mobile, and backend services.
+
+**Tech Stack:** Laravel • TypeScript • Flutter • Python • FastAPI
+
+### ✈️ Bideshgami
+
+Multi-app travel agency platform — separate apps for customers, agencies, and agents. Built for end-to-end travel booking and management.
+
+**Tech Stack:** Flutter • Dart • REST APIs
+
+### 🤖 OCR Credit Engine
+
+Bank statement PDF parsing toolkit with multi-method extraction, OCR, and credit scoring benchmarking. Processes financial documents at scale.
+
+**Tech Stack:** Python • FastAPI • OCR • PostgreSQL
 
 ### 🛒 POS System
 
 🔗 https://pos-react-nine.vercel.app/
 
-Modern POS and inventory management system for retail businesses.
+Modern POS and inventory management system for retail businesses — product catalog, sales tracking, and real-time stock management.
 
 **Tech Stack:** MongoDB • Express • React • Node.js
-
-### 🏠 Ronjona Hostel Management
-
-🔗 https://ronjonabd.com/
-
-Complete hostel administration and student management platform.
-
-**Tech Stack:** MERN Stack
-
-### 🛍️ AromasBD
-
-🔗 https://aromasbd.com/
-
-E-commerce platform with secure payment integration and admin management.
-
-**Tech Stack:** Django • PostgreSQL • Tailwind CSS
 
 ---
 
