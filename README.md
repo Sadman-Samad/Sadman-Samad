@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm Sadman Samad 👋</div>
 
-### <div align="center">Full-Stack Developer • Go • Flutter • Kotlin • Swift • NestJS • Laravel • Django • AI/ML</div>
+### <div align="center">Full-Stack Developer • Flutter • React Native • NestJS • Laravel • Django • AI/ML</div>
 
 <div align="center">
 
@@ -16,10 +16,10 @@
 
 Full-stack developer building fintech, travel, and AI platforms across web and mobile. Currently architecting credit-scoring systems, cross-platform mobile apps, and AI agent frameworks.
 
-* 🏦 Building **Dana** — a fintech credit-scoring & BNPL platform (Laravel, NestJS, Flutter, Kotlin, Swift)
+* 🏦 Building **Dana** — a fintech credit-scoring & BNPL platform (Laravel, NestJS, Flutter)
 * ✈️ Developing **Bideshgami** — a travel agency platform (Flutter, multi-app)
-* 🤖 Integrating **AI agents & OCR engines** for document processing (Python, FastAPI, Go)
-* 📱 Shipping cross-platform mobile apps with Flutter, React Native, Kotlin & Swift
+* 🤖 Integrating **AI agents & OCR engines** for document processing (Python, FastAPI)
+* 📱 Shipping cross-platform mobile apps with Flutter & React Native
 
 ---
 
@@ -29,7 +29,6 @@ Full-stack developer building fintech, travel, and AI platforms across web and m
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -48,8 +47,6 @@ Full-stack developer building fintech, travel, and AI platforms across web and m
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 
 ### Database & Cache
 
@@ -77,7 +74,7 @@ Full-stack developer building fintech, travel, and AI platforms across web and m
 
 Full-stack fintech credit-scoring & BNPL platform. Handles loan origination, credit scoring, payment processing, and user KYC across web and mobile.
 
-**Tech Stack:** Laravel • NestJS • Flutter • Kotlin • Swift • MySQL • PostgreSQL • Redis
+**Tech Stack:** Laravel • NestJS • Flutter • MySQL • PostgreSQL • Redis
 
 ### 🏦 Kube Fintech
 
