@@ -90,6 +90,14 @@ Multi-app travel agency platform — separate apps for customers, agencies, and 
 
 **Tech Stack:** Flutter • Dart • REST APIs
 
+### 🤖 AI Document Q&A
+
+🔗 https://github.com/Sadman-Samad/QA-frontend
+
+Full-stack AI document question-answering system. Upload PDF/DOCX/TXT, ask questions, and get AI-powered answers based on document content. Real-time processing with a modern React frontend and Express backend.
+
+**Tech Stack:** React 18 • Vite • Express • MongoDB • Cohere • OpenAI
+
 ---
 
 ## 📊 GitHub Analytics
