@@ -23,7 +23,7 @@
 
 ## About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-8f27-60299c3ffa12.gif" alt="coding animation" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding animation" />
 
 I'm a **Full-Stack Developer** specializing in building production-grade **fintech, travel, and AI-powered platforms** across web and mobile.
 
@@ -36,8 +36,6 @@ I architect and ship end-to-end systems — from credit-scoring engines and BNPL
 - ⚙️ Designing **scalable backends** with NestJS, Laravel, Django & Node.js
 
 <br clear="right"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sadman-Samad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="trophy animation" />
 
 ---
 
@@ -106,7 +104,7 @@ I architect and ship end-to-end systems — from credit-scoring engines and BNPL
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadman-Samad&theme=react-dark&hide_border=true)
+![Contribution Chart](https://ghchart.rshah.org/0A66C2/Sadman-Samad)
 
 </div>
 
